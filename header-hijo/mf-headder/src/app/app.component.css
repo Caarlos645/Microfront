@@ -1,0 +1,47 @@
+h1{
+  color: black;
+
+}
+
+a {
+  color: black;
+}
+header {
+  background-color: lightskyblue;
+  color: #ffffff;
+  padding: 15px 0;
+}
+
+nav {
+  background-color: lightskyblue;
+  border-radius: 5px;
+}
+
+.navbar-toggler-icon {
+  background-image: url(../assets/logo.jpg);
+
+}
+
+.buscador-form {
+  display: flex;
+  align-items: center;
+}
+
+.buscador-input {
+  border-radius: 0;
+}
+
+.login-enlace,
+.carrito-enlace {
+  margin-left: 10px;
+  text-decoration: none;
+}
+
+.carrito-enlace i {
+  font-size: 1.5rem;
+}
+
+
+
+
+
